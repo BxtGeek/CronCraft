@@ -85,6 +85,5 @@ Please check out the [issues](https://github.com/BxtGeek/CronCraft/issues) for i
 
 If you have any questions, encounter issues, or have suggestions, please open an issue in the [GitHub Issues](https://github.com/yourusername/CronCraft/issues) section. We’ll get back to you as soon as possible!
 
----
 
 Thank you for using CronCraft and for being part of our open-source journey! 🎉
