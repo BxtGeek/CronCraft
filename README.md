@@ -1,5 +1,4 @@
 ### **🚀 CronCraft: The Quick and Simple Cron Schedule Editor**  
-**Tagline:**  
 Master your Cron jobs effortlessly – no coding expertise required!  
 
 **👋 About CronCraft:**  
